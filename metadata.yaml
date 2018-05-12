@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36829'
     url: http://www.gutenberg.org/2009/agents/36829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34164#A-Blot-on-the-Scutcheon
 gutenberg_issued: '2010-10-29'
 gutenberg_type: Text
 identifiers:
